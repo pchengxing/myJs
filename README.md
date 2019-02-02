@@ -1,0 +1,2 @@
+# myJs
+a javascript poject
